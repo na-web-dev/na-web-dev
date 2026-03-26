@@ -1,16 +1,18 @@
 ## Hi there 👋
 
 <!--
-**na-web-dev/na-web-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+- フロントエンドエンジニアを目指して勉強中
+- React / TypeScript 学習中
 
-Here are some ideas to get you started:
+## Skills
+- Java（実務経験あり）
+- HTML / CSS / JavaScript（学習中）
+- React（学習中）
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Projects
+- ToDoアプリ（作成中）
+
+## Goal
+ユーザーにとって使いやすいサービスを作れるエンジニアになりたい
 -->

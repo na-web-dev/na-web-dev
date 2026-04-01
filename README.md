@@ -8,6 +8,7 @@
 - Java（実務経験あり）
 - HTML / CSS / JavaScript（学習中）
 - React（学習中）
+- Ruby（学習中）
 
 ## Projects
 - ToDoアプリ（作成中）
